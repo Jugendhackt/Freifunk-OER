@@ -1,6 +1,6 @@
 ---
 layout: complete
-title:	Freifunk-OER
+title:	HELLO-WORLD-OER
 language: de
 ---
 
